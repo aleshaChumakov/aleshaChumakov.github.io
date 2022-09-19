@@ -1,1 +1,1 @@
-# cv-wazzup
+https://aleshaChumakov.github.io/cv-wazzup/cv
