@@ -3,7 +3,7 @@
 # Моя Контактная Информация
 
 - Телефон +7 952-573-10-58
-- E-Mail: Чумаков.frontend@gmail.com
+- E-Mail: chumakov.frontend@gmail.com
 - GitHub: [aleshaChumakov](https://github.com/aleshaChumakov )
 - Телеграм: [aleshaChumakov](https://t.me/Ishy_cheloveka )
 
